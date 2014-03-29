@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.9'
+gem 'rails', '3.2.17'
 
-gem 'honeybadger', '1.4.0'
-gem 'sidekiq', '2.6.0'
+gem 'honeybadger', '1.12.0.beta1'
+gem 'sidekiq', '3.0.0'
